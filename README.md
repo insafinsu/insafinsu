@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p># ADHNANSEMI C
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p>
 <img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
@@ -26,8 +26,7 @@
 
  ## 🌟 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhnan-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhnan-alt&theme=radical" alt="GitHub Streak Stats" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=insaf%20insu&theme=vitesse&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
 # 🐍 A Snake Eating my Contributions Graph
