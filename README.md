@@ -7,7 +7,7 @@
 
 👨‍💻 Hi, **I'm Insaf!**
 
-🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
+🌱 I'm currently diving deep into **AI Data Analyst**  
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
